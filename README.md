@@ -1,6 +1,9 @@
 ## ✨ Muhamad Amir
 
 **`Fullstack Developer`**
+I'm Fullstack Developer love building products with Typescript (React TS and NestJS) end to end. Currently working as Fullstack Developer for over 5+ years.
+
+<hr/>
 
 ### 🧰 My Tech Stacks
 
